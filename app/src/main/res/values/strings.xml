@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FastFood</string>
+    <string name="button1">Sandwiches</string>
+    <string name="button2">Sobre Nosotros</string>
+
+    <string name="button3">Barros Luco</string>
+    <string name="button4">Lomito Italiano</string>
+    <string name="button5">Mechada</string>
+    <string name="button6">Churrasco Italiano</string>
+    <string name="button7">Chacarero</string>
+
+    <string name="sandwich1">Barros Luco</string>
+    <string name="detalle"></string>
+    <string name="nosotros">Somos una empresa de la región con mas de 10 años de experiencia realizando sandwiches! Los mejores de la zona, si no chorrea no es FAST FOOD</string>
+</resources>
